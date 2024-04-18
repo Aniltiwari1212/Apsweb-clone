@@ -143,7 +143,7 @@ span.no {
     padding: 16px;
 }
 .banner{
-    background: url(../img/what-size-generator-do-you-need-to-run-a\ 1.jpg);
+    background: url(what-size-generator-do-you-need-to-run-a\ 1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -273,7 +273,7 @@ span.no {
     color: #EB1B24;
 }
 .work-home{
-    background-image: url(../img/owner_bg.webp);
+    background-image: url(owner_bg.webp);
     background-repeat: no-repeat;
     background-size: cover;
     padding: 70px 0;
@@ -365,7 +365,7 @@ section.owner-sec {
     margin-top: 200px;
 }
 .explore-sec{
-    background-image: url(../img/explore_bg.webp);
+    background-image: url(explore_bg.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -403,7 +403,7 @@ section.owner-sec {
     border: 2px solid #FFDA00 ;
 }
 .delivery-steps li {
-    background: url(../img/check.svg);
+    background: url(check.svg);
     background-repeat: no-repeat;
     padding-left: 36px;
     font-size: 18px;
@@ -537,7 +537,7 @@ ul.delivery-steps {
 }
 .work-sec{
     padding: 80px 0;
-    background: url(../img/wavy-line.svg);
+    background: url(wavy-line.svg);
     background-size: 100%;
     background-repeat: no-repeat;
     background-position: center top 160px;
@@ -569,7 +569,7 @@ ul.delivery-steps {
     margin-top: 40px;
 }
 .explore-sec{
-    background: url(../img/explore-bg.webp);
+    background: url(explore-bg.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -589,7 +589,7 @@ ul.delivery-steps {
     font-weight:700;
 }
 .explore-list li {
-    background: url(../img/check.svg);
+    background: url(check.svg);
     background-repeat: no-repeat;
     background-position: left top 16px;
     padding-left: 40px;
@@ -713,7 +713,7 @@ ul.delivery-steps {
 }
 .quick-link ul li{
     margin-top: 10px;
-    background: url(../img/double_arrow.svg);
+    background: url(double_arrow.svg);
     background-repeat: no-repeat;
     background-position: center left;
     padding-left: 30px;
